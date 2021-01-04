@@ -6,7 +6,7 @@ import News from './widgets/News';
 import ButtonBar from './components/ButtonBar';
 import Widget from './widgets/Widget';
 
-function App() {
+function App () {
   return (
     <div className="App">
       <header className="App-header">

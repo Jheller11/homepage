@@ -12,8 +12,8 @@ function Widget() {
           <li className="list-group-item">Vestibulum at eros</li>
         </ul>
         <div className="card-body">
-          <a href="#" className="card-link">Card link</a>
-          <a href="#" className="card-link">Another link</a>
+          <a href="https://www.google.com" className="card-link">Card link</a>
+          <a href="https://www.google.com" className="card-link">Another link</a>
         </div>
       </div>
     )
